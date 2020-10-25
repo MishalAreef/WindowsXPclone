@@ -1,0 +1,13 @@
+C:\Users\Mish\source\repos\WindowsXP\WindowsXP\bin\Debug\WindowsXP.exe.config
+C:\Users\Mish\source\repos\WindowsXP\WindowsXP\bin\Debug\WindowsXP.exe
+C:\Users\Mish\source\repos\WindowsXP\WindowsXP\bin\Debug\WindowsXP.pdb
+C:\Users\Mish\source\repos\WindowsXP\WindowsXP\obj\Debug\WindowsXP.csprojAssemblyReference.cache
+C:\Users\Mish\source\repos\WindowsXP\WindowsXP\obj\Debug\WindowsXP.Form1.resources
+C:\Users\Mish\source\repos\WindowsXP\WindowsXP\obj\Debug\WindowsXP.Properties.Resources.resources
+C:\Users\Mish\source\repos\WindowsXP\WindowsXP\obj\Debug\WindowsXP.csproj.GenerateResource.cache
+C:\Users\Mish\source\repos\WindowsXP\WindowsXP\obj\Debug\WindowsXP.csproj.CoreCompileInputs.cache
+C:\Users\Mish\source\repos\WindowsXP\WindowsXP\obj\Debug\WindowsXP.exe
+C:\Users\Mish\source\repos\WindowsXP\WindowsXP\obj\Debug\WindowsXP.pdb
+C:\Users\Mish\source\repos\WindowsXP\WindowsXP\obj\Debug\WindowsXP.MainScreen.resources
+C:\Users\Mish\source\repos\WindowsXP\WindowsXP\obj\Debug\WindowsXP.AdministratorHome.resources
+C:\Users\Mish\source\repos\WindowsXP\WindowsXP\obj\Debug\WindowsXP.Engine.resources
